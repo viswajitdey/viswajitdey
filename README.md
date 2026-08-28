@@ -2,7 +2,7 @@
 
 ### Platform Engineer  
 
-#### *Cloud Infrastructure • Platform Automation • Developer Experience*
+#### *DevSecOps • Automation • Reliability • Platform Architecture*
 
 **Platform Engineer specializing in Cloud-Native Infrastructure, CI/CD Platform Design, and DevSecOps Automation** with 3+ years of experience enabling engineering teams to build, deploy, and scale applications efficiently.  
 
@@ -25,23 +25,34 @@ My focus: building **scalable, secure, and self-service platforms** that streaml
 | 💻 **Programming & Scripting**          | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?logo=gnubash&logoColor=white)                                                                                                                                                                      |
 | 🔗 **Integration & APIs**               | ![REST](https://img.shields.io/badge/REST_APIs-0096D6?logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![MuleSoft](https://img.shields.io/badge/MuleSoft-0086BF?logo=mulesoft&logoColor=white)                                                                                 |
 | 🤖 **AI/ML & Intelligent Automation**   | ![OpenAI](https://img.shields.io/badge/OpenAI/Gemini_APIs-412991?logo=openai&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-blueviolet) ![LLM Finetuning](https://img.shields.io/badge/LLM_Finetuning-FF4500)                                                                                              |
-
 ---
 
 ## **Professional Experience**
 
+### **IBM Consulting**
+**Lead Platform Engineer (DevSecOps)**  
+📍 *Noida, India | Nov 2025 – Present*
+
+* Lead end-to-end solution architecture for MuleSoft iPaaS, supporting 9+ business groups across a global F&B client with $100B+ revenue.
+* Delivered scalable and secure integration strategies for cross-application solutions, enhancing business capabilities and facilitating digital transformation.
+* Worked closely with cross-functional teams to implement DevSecOps practices, ensuring robust architecture security and governance.
+* Designed and implemented cloud-based solutions, leveraging Azure to modernize legacy systems, resulting in improved speed-to-market and scalability.
+* Collaborated on designing REST APIs and event-driven architecture to enhance system flexibility and interoperability.
+
 ### **HCLTech**  
-**Platform Engineer (Cloud & DevSecOps)**  
+**DevSecOps Engineer**  
 📍 *Noida, India | Sep 2022 – Nov 2025*
 
-* Designed and maintained **internal developer platforms (IDP)** enabling 10+ cross-functional teams to build, deploy, and operate microservices efficiently.  
-* Created **modular CI/CD pipelines** with GitHub Actions & Azure DevOps for multi-service delivery, improving release velocity by **30%**.  
-* Automated **AKS-based GitHub Runner clusters** using Terraform, delivering **99.9% reliability** and **80% ops reduction**.  
-* Managed **3+ Kubernetes clusters** hosting **50+ microservices**, focusing on reliability, cost optimization, and policy-based security.  
-* Integrated **SonarQube, SAST/DAST, and dependency scanning** into CI/CD pipelines, reducing vulnerabilities by **60%**.  
-* Established **Observability-as-a-Service** (Grafana + Prometheus + ELK), cutting MTTR by **35%** through proactive alerting.  
-* Built **Terraform modules** for **multi-cloud provisioning** (Azure, AWS), enabling reusable, compliant infrastructure blueprints.  
-* Deployed **OpenAI-powered automation agents** for code analysis, documentation, and workflow optimization — saving **$200K annually**.
+* Delivered architectural designs for 10+ CI/CD pipelines, translating business requirements into technical specifications, which resulted in a 30% faster
+release cycle.
+* Guided the integration of MuleSoft API Gateway and SonarQube for security and quality assurance, ensuring 95% code coverage and reducing
+vulnerabilities by 60%.
+* Implemented event-driven architectures using Apache Kafka to improve real-time data processing across multiple microservices.
+* Led the deployment of scalable Kubernetes clusters and microservices architecture to support 50+ production applications in Azure Kubernetes Service
+(AKS).
+* Provided technical leadership to internal teams and stakeholders, guiding them on aligning architecture with business objectives and ensuring compliance
+with industry standards.
+* Delivered technical documentation using UML and C4 diagrams to communicate complex system architecture and integration patterns
 
 ---
 
@@ -75,16 +86,18 @@ My focus: building **scalable, secure, and self-service platforms** that streaml
 
 ## **GitHub Stats**
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viswajitdey&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viswajitdey&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-> _Note: These stats reflect only public contributions — my major enterprise platform projects are hosted privately._
+> _Note: These stats reflect only public contributions — my major enterprise platform projects are hosted privately._ -->
+
+**Statistics not available as my focus has now shifted more towards enterprise architecture solutions. If you want to know let's discuss, reach out to me via [email](mailto:iamviswajitdey@gmail.com) or [website](https://www.viswajitdey.com/).**
 
 ---
 
 ## **Connect with Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viswajitdey)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viswajitdey)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/viswajitdey)  [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://www.viswajitdey.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viswajitdey)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viswajitdey)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/viswajitdey)  [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://www.viswajitdey.com)
